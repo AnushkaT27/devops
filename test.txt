@@ -1,0 +1,1 @@
+Copy and paste the following instructions into Cursor, Kiro, Claude Code, or any MCP-compatible coding agent to give it the tools, knowledge, and guardrails it needs to work effectively with AWS services.
