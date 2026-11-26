@@ -1,0 +1,33 @@
+
+Key Benefits & Pricing
+
+• Elasticity: Scale resources up or down automatically as traffic changes.
+• Pricing Models: Pay-as-you-go On-Demand billing, discounted Spot Instances for flexible workloads, and a Free Tier for getting started.
+• Cost Management: Track and estimate spending using the AWS Pricing Calculator, AWS Budgets, and Cost Explorer.
+To explore further, see this Introduction to Amazon Web Services.
+What is your main goal with AWS, such as hosting an app, learning cloud skills, building with AI, or estimating costs?
+Amazon Web Services
+AWS
+# The AWS Cloud spans 124 Availability Zones within 39 Geographic Regions, with announced plans for 7 more Availability Zones and ...
+Wikipedia
+Amazon Web Services - Wikipedia
+Amazon Web Services: subsidiary of Amazon providing on-demand cloud computing platforms, APIs, metered pay-as-you-go services (CEO...
+GeeksforGeeks
+Introduction to Amazon Web Services
+# Introduction to Amazon Web Services * Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud plat...
+YouTube·Be A Better Dev
+01:05:13
+AWS Explained: The Most Important AWS Services To Know
+Digital Cloud Training
+What is AWS Cloud?
+AWS (Amazon Web Services) is a cloud technology platform launched in 2006 using Amazon's e-commerce IT infrastructure to provide g...
+YouTube·Academind
+6:17
+What is AWS & Cloud Computing?
+E&ICT Academy, IIT Kanpur
+AWS Cloud Computing: Introduction, Features & Benefits | EICTA
+Amazon Web Services (AWS): Cloud platform offering 200+ services, EC2, S3, RDS, Lambda, Redshift, QuickSight, Athena, CodePipeline...
+YouTube·My Computer Works
+1:24
+The Cloud Explained: AWS & Azure in 60 Seconds!
+                           

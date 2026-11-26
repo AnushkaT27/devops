@@ -1,0 +1,7 @@
+
+Core Services
+
+• Compute: Amazon EC2 (resizable virtual servers), AWS Lambda (serverless code execution), and AWS Elastic Beanstalk (managed app deployment).
+• Storage & Databases: Amazon S3 (object storage), Amazon EBS (block storage), Amazon RDS (relational databases), and Amazon DynamoDB (NoSQL database).
+• Networking & Content Delivery: Amazon VPC (isolated virtual networks), Amazon Route 53 (DNS), and Amazon CloudFront (content delivery network).
+• Security & Identity: AWS IAM (access and permission control), AWS WAF, and AWS Shield.

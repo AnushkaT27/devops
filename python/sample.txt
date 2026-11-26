@@ -1,0 +1,7 @@
+Amazon Web Services (AWS) is Amazon's on-demand cloud computing platform offering over 200 services across compute, storage, databases, networking, analytics, security, and AI. Instead of buying and maintaining physical servers, users rent IT resources over the internet on a pay-as-you-go basis.
+
+Global Infrastructure
+
+• Scale: Spans 124 Availability Zones across 39 Geographic Regions, with additional regions planned in Saudi Arabia and Chile.
+• High Availability: Availability Zones are isolated data center locations within a region, helping apps stay online if one facility faces issues.
+
